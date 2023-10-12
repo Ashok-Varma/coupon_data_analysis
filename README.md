@@ -7,37 +7,37 @@ Analysed coupons for Coffee House and these are the observations from [the analy
 
 1. [**Age**](coupon_analysis.ipynb#Age):
 
-![Age to Acceptance](Images/Results/Coffee House Analysis/age_acceptance.png)
+![Age to Acceptance](Images/Results/Coffee%20House%20Analysis/age_acceptance.png)
 
    - Individuals in the age groups 21-26 and 31-35 showed the highest acceptance rates. The youngest (below 21) and oldest (above 50) age groups had fewer instances of coupon acceptances.
 
 2. [**Education**](coupon_analysis.ipynb#Education):
 
-![Education to Acceptance](Images/Results/Coffee House Analysis/education_acceptance.png)
+![Education to Acceptance](Images/Results/Coffee%20House%20Analysis/education_acceptance.png)
 
    - Individuals with "High School" and "Some College" education levels had a higher number of coupon acceptances. However, acceptance rates among those with "Bachelors" and "Graduate School" degrees were also notable.
 
 3. [**Income**](coupon_analysis.ipynb#Income):
 
-![Income to Acceptance](Images/Results/Coffee House Analysis/income_acceptance.png)
+![Income to Acceptance](Images/Results/Coffee%20House%20Analysis/income_acceptance.png)
 
    - Acceptance rates were generally higher across most income groups, with especially high rates observed for those earning "Less than \$12,500" and between "\$50,000 - \$62,499".
 
 4. [**Direction to Coffee House**](coupon_analysis.ipynb#Direction):
 
-![Direction to Acceptance](Images/Results/Coffee House Analysis/direction_acceptance.png)
+![Direction to Acceptance](Images/Results/Coffee%20House%20Analysis/direction_acceptance.png)
 
    - There was a higher acceptance rate for coupons when the direction to the coffee house was the same as the destination.
 
 5. [**Time of Day**](coupon_analysis.ipynb#Time):
 
-![Time to Acceptance](Images/Results/Coffee House Analysis/time_acceptance.png)
+![Time to Acceptance](Images/Results/Coffee%20House%20Analysis/time_acceptance.png)
 
    - Acceptance rates peaked during late morning (around 10 AM) and again in the late evening (around 10 PM). Early morning hours like 6 AM saw lower acceptance.
 
 6. [**Weather and Temperature**](coupon_analysis.ipynb#Temparture-and-Weather):
 
-![Weather to Acceptance](Images/Results/Coffee House Analysis/weather_temp_acceptance_heatmap.png)
+![Weather to Acceptance](Images/Results/Coffee%20House%20Analysis/weather_temp_acceptance_heatmap.png)
 
    - Across all weather conditions, there was a trend of higher acceptance rates at temperature extremes, suggesting that people might be more inclined to accept coffee coupons during very cold or warm weather.
    - Sunny days showed consistent acceptance rates across temperatures, with a slight peak at 80°F.
